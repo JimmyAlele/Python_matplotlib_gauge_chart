@@ -1,3 +1,3 @@
 Python matplotlib gauge chart
 
-<img src = "app/src/main/res/drawable/amphibian_screenshot.png" width = "30%">
+<img src = "https://github.com/JimmyAlele/Python_matplotlib_gauge_chart/blob/master/gauge_chart.JPG" width = "30%">
